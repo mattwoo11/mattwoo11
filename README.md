@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mattwoo11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m looking for a role that involves backend
+- 🌱 I’m currently learning backend development in Python and Go
+- 💞️ I’m taking courses from Boot.Dev
 - 📫 How to reach me https://www.linkedin.com/in/matthews-dixon-iii-6119b01a8/
 
 <!---
